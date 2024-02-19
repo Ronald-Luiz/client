@@ -90,10 +90,6 @@ export default function Pag1() {
 
 
 
-    console.log(curso)
-
-
-
     return (
         <>
             <h2 className={styles.titulo}>Curso Online NR 11 - Transporte, Movimentação, Armazenagem e Manuseio de Materiais - 16h</h2>
@@ -160,9 +156,9 @@ export default function Pag1() {
                     </section>
 
                     <section className={styles.section3}>
-                        {/* <h2>R$ 130,00 à vista</h2>
-                        <p>Ou parcelado no cartão</p> */}
-                        <Button type="button" variant="warning" size="lg" onClick={Enviar}>Fale com consultor</Button>
+                        <h2>R$ 130,00 à vista</h2>
+                        <p>Ou parcelado no cartão</p>
+                        <Button type="button" variant="warning" size="lg" onClick={Enviar}>MATRICULE-SE</Button>
 
                         <p className={styles.p2}>
                             <strong>DÚVIDAS</strong>
