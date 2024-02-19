@@ -95,7 +95,7 @@ export default function Pag1() {
 
     return (
         <>
-            <h2 className={styles.titulo}>Curso de Atendimento ao Cliente</h2>
+            <h2 className={styles.titulo}>Curso Online NR 20 (Básico) - Segurança com Inflamáveis e Combustíveis - 8h</h2>
             <NavPage />
 
             <div className={styles.caixaPai}>
@@ -130,7 +130,7 @@ export default function Pag1() {
 
                         {Cards.map((item, index) => (
                             // Verifica se o índice é igual a 1 (item 1 no array)
-                            index === 31 && (
+                            index === 20 && (
                                 <h3>
 
                                     {item.title}
@@ -159,9 +159,9 @@ export default function Pag1() {
                     </section>
 
                     <section className={styles.section3}>
-                        {/* <h2>R$ 130,00 à vista</h2>
-                        <p>Ou parcelado no cartão</p> */}
-                        <Button type="button" variant="warning" size="lg" onClick={Enviar}>Fale com consultor</Button>
+                        <h2>R$ 130,00 à vista</h2>
+                        <p>Ou parcelado no cartão</p>
+                        <Button type="button" variant="warning" size="lg" onClick={Enviar}>MATRICULE-SE</Button>
 
                         <p className={styles.p2}>
                             <strong>DÚVIDAS</strong>

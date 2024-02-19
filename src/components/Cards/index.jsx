@@ -18,7 +18,7 @@ import Image11 from '../../assets/Card11.png';
 import Image12 from '../../assets/Card12.png';
 import Image13 from '../../assets/Card13.png';
 import Image14 from '../../assets/Card14.png';
-import Image15 from '../../assets/Card15.png';
+
 import Image16 from '../../assets/Card16.png';
 import Image17 from '../../assets/Card17.png';
 import Image18 from '../../assets/Card18.png';
@@ -37,8 +37,7 @@ import Image30 from '../../assets/Card30.png';
 import Image31 from '../../assets/Card31.png';
 import Image32 from '../../assets/Card32.png';
 import Image33 from '../../assets/Card33.png';
-import Image34 from '../../assets/Card34.png';
-import Image35 from '../../assets/Card35.png';
+
 import Image36 from '../../assets/Card36.png';
 import Image37 from '../../assets/Card37.png';
 import Image38 from '../../assets/Card38.png';
@@ -219,236 +218,79 @@ export const Cards = [
         imageSrc: Image24,
         button: 'saiba mais'
     },
-    // {
-    //     id: 15,
-    //     title: 'Curso Operador de Empilhadeiras',
-    //     imageSrc: Image15,
-    //     button: 'saiba mais'
-    // },
+
     
     {
-        id: 16,
+        id: 29,
         title: 'Monitor de Transporte Escolar',
         imageSrc: Image16,
         button: 'saiba mais'
     },
 
-    // {
-    //     id: 16,
-    //     title: 'Monitor de Transporte Escolar',
-    //     imageSrc: Image16,
-    //     button: 'saiba mais'
-    // },
+
     {
-        id: 17,
+        id: 30,
         title: 'Curso de noções básicas em Primeiros Socorros',
         imageSrc: Image17,
         button: 'saiba mais'
     },
-    // {
-    //     id: 17,
-    //     title: 'Curso de noções básicas em Primeiros Socorros',
-    //     imageSrc: Image17,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 18,
-    //     title: 'Curso Online NR 06 - Equipamento de Proteção Individual - 16h',
-    //     imageSrc: Image18,
-    //     button: 'saiba mais'
-    // },
- 
 
-    // {
-    //     id: 19,
-    //     title: 'Pós-Graduação em Gestão e Direito de Trânsito',
-    //     imageSrc: Image19,
-    //     button: 'saiba mais'
-    // },
     {
-        id: 20,
+        id: 31,
         title: 'Curso de Prevenção e Combate a Incêndio',
         imageSrc: Image20,
         button: 'saiba mais'
     },
-    // {
-    //     id: 20,
-    //     title: 'Curso de Prevenção e Combate a Incêndio',
-    //     imageSrc: Image20,
-    //     button: 'saiba mais'
-    // },
+
     {
-        id: 21,
+        id: 32,
         title: 'Curso de Atendimento ao Cliente',
         imageSrc: Image21,
         button: 'saiba mais'
     },
-    // {
-    //     id: 21,
-    //     title: 'Curso de Atendimento ao Cliente',
-    //     imageSrc: Image21,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 22,
-    //     title: 'Curso Online NR 10 - Segurança em Instalações e Serviços em Eletricidade - 40h',
-    //     imageSrc: Image22,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 23,
-    //     title: 'Curso Online NR 11 - Transporte, Movimentação, Armazenagem e Manuseio de Materiais - 16h',
-    //     imageSrc: Image23,
-    //     button: 'saiba mais'
-    // },
-  
-    // {
-    //     id: 24,
-    //     title: 'Pós-Graduação em Gestão e Educação para o Trânsito',
-    //     imageSrc: Image24,
-    //     button: 'saiba mais'
-    // },
-    
-    // {
-    //     id: 25,
-    //     title: 'Curso Online NR 12 - Segurança no Trabalho em Máquinas e Equipamentos - 16',
-    //     imageSrc: Image25,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 26,
-    //     title: 'Curso Online NR 16 - Atividades e Operações Perigosas - 16h',
-    //     imageSrc: Image26,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 27,
-    //     title: 'Curso Online NR 20 (Básico) - Segurança com Inflamáveis e Combustíveis - 8h',
-    //     imageSrc: Image27,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 28,
-    //     title: 'Curso Online NR 20 (Intermediário Classe I) - Segurança com Inflamáveis e Combustíveis - 16h',
-    //     imageSrc: Image28,
-    //     button: 'saiba mais'
-    // },
+
     {
-        id: 29,
+        id: 33,
         title: 'Curso de Direção Defensiva',
         imageSrc: Image29,
         button: 'saiba mais'
     },
-    // {
-    //     id: 29,
-    //     title: 'Curso de Direção Defensiva',
-    //     imageSrc: Image29,
-    //     button: 'saiba mais'
-    // },
-
-    // {
-    //     id: 30,
-    //     title: 'Curso Online NR 20 (Intermediário Classe II e III) - Segurança com Inflamáveis e Combustíveis - 16h',
-    //     imageSrc: Image30,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 31,
-    //     title: 'Curso para Condutores de Veículos de Aplicativo',
-    //     imageSrc: Image31,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 32,
-    //     title: 'Curso Online NR 29 - Segurança e Saúde no Trabalho Portuário - 24h',
-    //     imageSrc: Image32,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 33,
-    //     title: 'Curso Online NR 35 - Trabalho em Altura - 16h',
-    //     imageSrc: Image33,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 34,
-    //     title: 'Curso para Condutores de Veículos de Aplicativo São Paulo - SP (ConduAPP)',
-    //     imageSrc: Image34,
-    //     button: 'saiba mais'
-    // },
-    // {
-    //     id: 35,
-    //     title: 'Curso de Formação para Condutores de Passageiros por Aplicativo Foz do Iguaçu - PR',
-    //     imageSrc: Image35,
-    //     button: 'saiba mais'
-    // },
+   
     {
-        id: 36,
+        id: 34,
         title: 'Talonário Eletrônico',
         imageSrc: Image36,
         button: 'saiba mais'
     },
-    // {
-    //     id: 36,
-    //     title: 'Talonário Eletrônico',
-    //     imageSrc: Image36,
-    //     button: 'saiba mais'
-    // },
+  
     {
-        id: 37,
+        id: 35,
         title: 'Curso de Atualização para Agente de Trânsito - EAD - Portaria SENATRAN Nº 966/2022',
         imageSrc: Image37,
         button: 'saiba mais'
     },
-    // {
-    //     id: 37,
-    //     title: 'Curso de Atualização para Agente de Trânsito - EAD - Portaria SENATRAN Nº 966/2022',
-    //     imageSrc: Image37,
-    //     button: 'saiba mais'
-    // },
+   
     {
-        id: 38,
+        id: 36,
         title: 'Curso de Formação para Agente de Trânsito - EAD - Portaria SENATRAN Nº 966/2022',
         imageSrc: Image38,
         button: 'saiba mais'
     },
-    // {
-    //     id: 38,
-    //     title: 'Curso de Formação para Agente de Trânsito - EAD - Portaria SENATRAN Nº 966/2022',
-    //     imageSrc: Image38,
-    //     button: 'saiba mais'
-    // },
+   
     {
-        id: 39,
+        id: 37,
         title: 'Direção Defensiva para Instrutores: Foco em Intuições Físicas',
         imageSrc: Image39,
         button: 'saiba mais'
     },
-    // {
-    //     id: 39,
-    //     title: 'Direção Defensiva para Instrutores: Foco em Intuições Físicas',
-    //     imageSrc: Image39,
-    //     button: 'saiba mais'
-    // },
-
-    // {
-    //     id: 40,
-    //     title: 'Curso Online NR 33 - Segurança e Saúde nos Trabalhos em Espaços Confinados (16h)',
-    //     imageSrc: Image40,
-    //     button: 'saiba mais'
-    // },
+   
     {
-        id: 41,
+        id: 38,
         title: 'Curso para Condutor e Monitor de Veículos para Passageiros com Mobilidade Reduzida',
         imageSrc: Image41,
         button: 'saiba mais'
     },
-    // {
-    //     id: 41,
-    //     title: 'Curso para Condutor e Monitor de Veículos para Passageiros com Mobilidade Reduzida',
-    //     imageSrc: Image41,
-    //     button: 'saiba mais'
-    // },
+
 
 ];
 

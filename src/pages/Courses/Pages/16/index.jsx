@@ -95,7 +95,7 @@ export default function Pag1() {
 
     return (
         <>
-            <h2 className={styles.titulo}>Monitor de Transporte Escolar</h2>
+            <h2 className={styles.titulo}>Curso Online NR 06 - Equipamento de Proteção Individual - 16h</h2>
             <NavPage />
 
             <div className={styles.caixaPai}>
@@ -130,7 +130,7 @@ export default function Pag1() {
 
                         {Cards.map((item, index) => (
                             // Verifica se o índice é igual a 1 (item 1 no array)
-                            index === 28 && (
+                            index === 15 && (
                                 <h3>
 
                                     {item.title}

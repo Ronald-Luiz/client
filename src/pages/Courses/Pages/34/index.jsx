@@ -130,7 +130,7 @@ export default function Pag1() {
 
                         {Cards.map((item, index) => (
                             // Verifica se o índice é igual a 1 (item 1 no array)
-                            index === 31 && (
+                            index === 33 && (
                                 <h3>
 
                                     {item.title}

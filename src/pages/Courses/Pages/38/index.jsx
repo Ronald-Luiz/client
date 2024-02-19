@@ -95,7 +95,7 @@ export default function Pag1() {
 
     return (
         <>
-            <h2 className={styles.titulo}>Curso de Formação para Agente de Trânsito - EAD - Portaria SENATRAN Nº 966/2022</h2>
+            <h2 className={styles.titulo}>Curso para Condutor e Monitor de Veículos para Passageiros com Mobilidade Reduzida</h2>
             <NavPage />
 
             <div className={styles.caixaPai}>
@@ -130,7 +130,7 @@ export default function Pag1() {
 
                         {Cards.map((item, index) => (
                             // Verifica se o índice é igual a 1 (item 1 no array)
-                            index === 35 && (
+                            index === 37 && (
                                 <h3>
 
                                     {item.title}

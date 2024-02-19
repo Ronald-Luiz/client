@@ -91,7 +91,7 @@ export default function Pag1() {
 
     return (
         <>
-            <h2 className={styles.titulo}>Curso de noções básicas em Primeiros Socorros</h2>
+            <h2 className={styles.titulo}>Curso Online NR 10 - Segurança em Instalações e Serviços em Eletricidade - 40h</h2>
             <NavPage />
 
             <div className={styles.caixaPai}>
@@ -126,7 +126,7 @@ export default function Pag1() {
 
                         {Cards.map((item, index) => (
                             // Verifica se o índice é igual a 1 (item 1 no array)
-                            index === 29 && (
+                            index === 16 && (
                                 <h3>
 
                                     {item.title}
