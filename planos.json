@@ -1,0 +1,20 @@
+[
+    {
+        "imagem": "",
+        "nome": "Curso para condução de veículos de transporte de produtos perigosos",
+        "preco": 1,
+        "quantidade": 1
+    },
+    {
+        "imagem": "",
+        "nome": "Curso para condução de veículos de transporte de produtos perigosos nivel 2",
+        "preco": 1,
+        "quantidade": 1
+    },
+    {
+        "imagem": "",
+        "nome": "Curso para condução de veículos de transporte de produtos perigosos nivel 3",
+        "preco": 1,
+        "quantidade": 1
+    }
+]

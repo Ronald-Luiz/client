@@ -1,0 +1,37 @@
+.MenuMobile {
+    position: relative;
+    bottom: 50px;
+    right: 70px;
+
+    z-index: 110%;
+    text-align: center;
+
+
+
+    &.closed {
+
+
+        ul {
+            display: none;
+        }
+    }
+
+
+
+
+    @media screen and (min-width:1200px) {
+        display: none;
+    }
+}
+
+.background {
+    z-index: 110%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 450px;
+    background: #313131;
+    opacity: 0.9;
+
+}
