@@ -48,10 +48,18 @@ header {
 
         .divMobile {
             display: flex;
-            justify-content: center;
+            justify-content: right;
             align-items: center;
             height: 85px;
             // border: 2px solid red;
+
+            width: 300px;
+
+            span {
+                font-family: 'Contrail One', sans-serif;
+                font-size: 24px;
+                color: red;
+            }
 
             img {
                 width: 8vw;
@@ -190,6 +198,12 @@ header {
             width: 85vw;
             margin-top: 1.5vw;
 
+            span {
+                font-family: 'Contrail One', sans-serif;
+                font-size: 34px;
+                color: red;
+            }
+
             // border: 2px solid red;
 
             figure {
@@ -201,11 +215,7 @@ header {
                 }
 
 
-                span {
-                    font-family: 'Contrail One', sans-serif;
-                    font-size: 34px;
-                    color: red;
-                }
+              
 
                 figcaption {
                     display: flex;
