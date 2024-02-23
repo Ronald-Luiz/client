@@ -30,8 +30,8 @@ export default function Nav() {
                         <figcaption>
                             <p>RLM CURSOS</p>
                             <p>DE TRÂNSITO</p>
-                            <span>EAD</span>
                         </figcaption>
+                        <span>EAD</span>
                     </figure>
 
                     <ul className={styles.menuDesktop}>
@@ -58,8 +58,8 @@ export default function Nav() {
                                 <figcaption>
                                     <p>RLM CURSOS</p>
                                     <p>DE TRÂNSITO</p>
-                                    <span>EAD</span>
                                 </figcaption>
+                                <span>EAD</span>
                             </figure>
 
                             <section className={styles.menu}>

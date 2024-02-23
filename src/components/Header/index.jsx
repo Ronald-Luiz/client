@@ -40,8 +40,8 @@ export default function header() {
                     <figcaption>
                         <p>RLM CURSOS</p>
                         <p>DE TRÂNSITO</p>
-                        <span>EAD</span>
                     </figcaption>
+                    <span>EAD</span>
                 </figure>
 
                 <ul className={styles.menuDesktop}>
@@ -67,11 +67,10 @@ export default function header() {
                             <img src={Logo} alt='' />
 
                             <figcaption>
-
                                 <p>RLM CURSOS</p>
                                 <p>DE TRÂNSITO</p>
-                                <span>EAD</span>
                             </figcaption>
+                            <span>EAD</span>
 
 
                         </figure>

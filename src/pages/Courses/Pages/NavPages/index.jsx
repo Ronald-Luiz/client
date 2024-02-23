@@ -41,8 +41,8 @@ export default function navPage() {
                         <figcaption>
                             <p>RLM CURSOS</p>
                             <p>DE TRÂNSITO</p>
-                            <span>EAD</span>
                         </figcaption>
+                        <span>EAD</span>
                     </figure>
 
                     <ul className={styles.menuDesktop}>
@@ -69,8 +69,8 @@ export default function navPage() {
                                 <figcaption>
                                     <p>RLM CURSOS</p>
                                     <p>DE TRÂNSITO</p>
-                                    <span>EAD</span>
                                 </figcaption>
+                                <span>EAD</span>
                             </figure>
 
                             <section className={styles.menu}>
@@ -122,7 +122,7 @@ export default function navPage() {
                                         CURSO DE RECICLAGEM PARA CONDUTORES INFRATORES
                                     </Link> */}
 
-         
+
                                 </li>
                             </ul>
 

@@ -22,7 +22,7 @@
         top: 0px;
         right: 120px;
 
-       
+
 
 
 
@@ -52,7 +52,7 @@
         }
 
         h2 {
-    
+
 
             text-align: center;
 
@@ -123,10 +123,18 @@ $color: white;
 
         .divMobile {
             display: flex;
-            justify-content: center;
+            justify-content: right;
             align-items: center;
             height: 85px;
             // border: 2px solid red;
+
+            width: 300px;
+
+            span {
+                font-family: 'Contrail One', sans-serif;
+                font-size: 24px;
+                color: red;
+            }
 
             img {
                 width: 8vw;
@@ -166,7 +174,7 @@ $color: white;
 
             img {
 
-                width: 80px;
+                width: 50px;
 
                 @media screen and (max-width:370px) {
                     width: 55px;
@@ -275,16 +283,13 @@ $color: white;
                     width: 5vw;
                 }
 
+
                 figcaption {
                     display: flex;
                     flex-direction: column;
                     align-items: center;
 
-                    span {
-                        font-family: 'Contrail One', sans-serif;
-                        font-size: 34px;
-                        color: red;
-                    }
+
 
                     p {
                         font-family: 'Contrail One', sans-serif;
