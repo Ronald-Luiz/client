@@ -41,6 +41,7 @@ export default function navPage() {
                         <figcaption>
                             <p>RLM CURSOS</p>
                             <p>DE TRÂNSITO</p>
+                            <span>EAD</span>
                         </figcaption>
                     </figure>
 
@@ -68,6 +69,7 @@ export default function navPage() {
                                 <figcaption>
                                     <p>RLM CURSOS</p>
                                     <p>DE TRÂNSITO</p>
+                                    <span>EAD</span>
                                 </figcaption>
                             </figure>
 

@@ -129,7 +129,7 @@ header {
             justify-content: space-between;
             padding-left: 20px;
             width: 90vw;
-            
+
 
 
 
@@ -200,6 +200,13 @@ header {
                     width: 5vw;
                 }
 
+
+                span {
+                    font-family: 'Contrail One', sans-serif;
+                    font-size: 34px;
+                    color: red;
+                }
+
                 figcaption {
                     display: flex;
                     flex-direction: column;
@@ -211,6 +218,7 @@ header {
                         margin: 0;
                         font-size: 1.5vw;
                     }
+
                 }
             }
 
