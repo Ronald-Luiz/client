@@ -52,13 +52,15 @@ export const MenuItem = ({ i }) => {
                         CURSOS
                     </Link>
                 </li>
-                <div className={styles.line} />
-                <li><CustomIcon icon='pergunta' color='white' size={25} />
+                {/* <div className={styles.line} /> */}
+                {/* <li><CustomIcon icon='pergunta' color='white' size={25} />
                     PERGUNTAS
-                </li>
+                </li> */}
                 <div className={styles.line} />
                 <li><CustomIcon icon='contatos' color='white' size={25} />
-                    CONTATO
+                    <Link to='/contatos'>
+                        CONTATO
+                    </Link>
                 </li>
             </section>
 

@@ -17,6 +17,7 @@ import Livres from '../pages/Courses/Cursos-Livres/index.jsx';
 
 // Paginas
 import Pcursos from '../pages/Courses/index.jsx';
+import Contact from '../pages/Courses/Pages/Contact'
 // import Payments from '../pages/Payments';
 
 import Pag1 from '../pages/Courses/Pages/1/index.jsx';
@@ -84,6 +85,8 @@ function App() {
             <Route path='/graduacao' element={<Graduacao />} />
             <Route path='/livres' element={<Livres />} />
             {/* <Route path='/payments' element={<Payments />} /> */}
+
+            <Route path='/contatos' element={<Contact />} />
           </Route>
 
 
@@ -92,6 +95,7 @@ function App() {
           <Route element={<LayoutCourse />}>
             <Route path='/courses' element={<Pcursos />} />
 
+  
           </Route>
 
 
@@ -140,9 +144,9 @@ function App() {
           <Route path='/page/40' element={<Pag40 />} />
           <Route path='/page/41' element={<Pag41 />} />
 
+    
 
-
-
+      
         </Routes>
       </BrowserRouter>
 

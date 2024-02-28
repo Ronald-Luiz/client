@@ -89,10 +89,14 @@ export default function header() {
                             </li>
 
 
-                            <li>PERGUNTAS FREQUENTES</li>
 
 
-                            <li>CONTATO</li>
+
+                            <li>
+                                <Link to='contatos'>
+                                    CONTATO
+                                </Link>
+                            </li>
 
                             {/* <section>
                                 <Button className={styles.Button1} variant="success" size='lg'>Button</Button>
