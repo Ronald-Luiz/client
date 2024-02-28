@@ -73,7 +73,7 @@ export const MenuItem = ({ i }) => {
 
             <section>
                 <p><CustomIcon icon='contato' color='yellow' size={25} />(21) 97148-8620</p>
-                <p><CustomIcon icon='email' color='yellow' size={25} /> rlmcursodetransito@gmail.com</p>
+                <p><CustomIcon icon='email' color='yellow' size={25} /> rlmcursosdetransito@gmail.com</p>
             </section>
 
             <div className={styles.line2} />

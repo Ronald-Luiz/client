@@ -86,10 +86,10 @@ function App() {
             <Route path='/livres' element={<Livres />} />
             {/* <Route path='/payments' element={<Payments />} /> */}
 
-            <Route path='/contatos' element={<Contact />} />
           </Route>
 
 
+          <Route path='/contatos' element={<Contact />} />
 
           {/*Cursos */}
           <Route element={<LayoutCourse />}>

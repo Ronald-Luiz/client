@@ -11,6 +11,7 @@
     flex-direction: column;
 
     h2 {
+        margin-top: 40px;
         margin-bottom: 40px;
     }
 
@@ -19,6 +20,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+
 
         width: 500px;
         height: 500px;
@@ -32,40 +34,38 @@
         border-radius: 8px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
-        form {
-            display: flex;
-            justify-content: center;
-            flex-direction: center;
-            flex-direction: column;
+        //     form {
+        //         display: flex;
+        //         justify-content: center;
+        //         flex-direction: column;
 
-            padding: 40px;
+        //         padding: 40px;
 
 
-            // border: 1px solid red;
-        }
+        //         // border: 1px solid red;
+        //     }
 
-        label {
-            margin-top: 10px;
-        }
+        //     label {
+        //         margin-top: 10px;
+        //     }
 
-        input,
-        textarea {
-            padding: 10px;
-            margin: 5px 0;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
+        //     input,
+        //     textarea {
+        //         padding: 10px;
+        //         margin: 5px 0;
+        //         border: 1px solid #ccc;
+        //         border-radius: 4px;
+        //     }
 
-        input[type="submit"] {
-            background-color: #4caf50;
-            color: white;
-            cursor: pointer;
-        }
+        //     input[type="submit"] {
+        //         background-color: #4caf50;
+        //         color: white;
+        //         cursor: pointer;
+        //     }
 
-        input[type="submit"]:hover {
-            background-color: #45a049;
-        }
+        //     input[type="submit"]:hover {
+        //         background-color: #45a049;
+        //     }
 
     }
-
 }

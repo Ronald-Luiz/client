@@ -49,7 +49,7 @@ export default function header() {
                         <section>
                             <section className={styles.contact}>
                                 <CustomIcon icon='contato' color='yellow' size={27} /><a href='#'><li>Whatsapp: (21) 97148-8620</li></a>
-                                <CustomIcon icon='email' color='yellow' size={27} /><a href='#'><li>rlmcursodetransito@gmail.com</li></a>
+                                <CustomIcon icon='email' color='yellow' size={27} /><a href='#'><li>rlmcursosdetransito@gmail.com</li></a>
                             </section>
                         </section>
 
@@ -87,9 +87,6 @@ export default function header() {
                                     CURSOS
                                 </Link>
                             </li>
-
-
-
 
 
                             <li>
