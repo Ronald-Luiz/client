@@ -26,7 +26,7 @@ export default function footer() {
                     <section className={styles.Text}>
                         <h2>CONTATO</h2>
                         <li><CustomIcon icon='contato' color='white' size={27} />Whatsapp:(21) 97148-8620</li>
-                        <li><CustomIcon icon='email' color='white' size={27} />email: rlmcursodetransito@gmail.com</li>
+                        <li><CustomIcon icon='email' color='white' size={27} />email: rlmcursosdetransito@gmail.com</li>
                     </section>
 
                     <div className={styles.VerticalLine}></div>
